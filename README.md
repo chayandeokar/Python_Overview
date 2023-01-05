@@ -1,7 +1,5 @@
 # Python_Overview
 
-# Python_Overview
-
 ## More about Lambda
 https://www.w3schools.com/python/python_lambda.asp
 
