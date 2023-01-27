@@ -1,5 +1,7 @@
 # Python_Overview
 
+# Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
 ## More about Lambda
 https://www.w3schools.com/python/python_lambda.asp
 
